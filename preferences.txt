@@ -1,10 +1,11 @@
-android.sdk.ar=1.12.0
-android.sdk.gvr=1.180.0
-android.sdk.path=/home/aryan/Android/Sdk
-android.sdk.play_services=16.0.1
-android.sdk.support=28.0.0
-android.sdk.target=28
-android.sdk.wear=2.4.0
+# android.sdk.ar=1.12.0
+# android.sdk.gvr=1.180.0
+# Yes I censored my name xD
+# android.sdk.path=/home/***/Android/Sdk
+# android.sdk.play_services=16.0.1
+# android.sdk.support=28.0.0
+# android.sdk.target=28
+# android.sdk.wear=2.4.0
 chooser.files.native=true
 console.auto_clear=true
 console.font.size=24
