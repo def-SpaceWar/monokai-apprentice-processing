@@ -1,6 +1,6 @@
 android.sdk.ar=1.12.0
 android.sdk.gvr=1.180.0
-android.sdk.path=/home/aryan/Android/Sdk
+android.sdk.path=~/Android/Sdk
 android.sdk.play_services=16.0.1
 android.sdk.support=28.0.0
 android.sdk.target=28
@@ -16,7 +16,7 @@ contribution.backup.on_remove=true
 editor.caret.blink=true
 editor.caret.block=false
 editor.completion.auto_close=true
-editor.font.family=Fira Code
+editor.font.family=FiraCode Nerd Font
 editor.font.size=24
 editor.indent=true
 editor.input_method_support=false
