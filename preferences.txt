@@ -102,7 +102,7 @@ run.present.bgcolor=#666666
 run.present.stop.color=#cccccc
 run.window.bgcolor=#DFDFDF
 search.format=https://google.com/search?q=%s
-sketchbook.path.three=/home/aryan/Code/Processing
+sketchbook.path.three=~/Code/Processing
 update.check=true
 update.id=-8397840475357145530
 update.last=1602364604940
